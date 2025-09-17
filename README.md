@@ -1,2 +1,2 @@
 # AgriData-Explorer-Understanding-Indian-agriculture-with-EDA
-Agricultural, Mainly focusing on crop production statistics, yields, and farming area in India.
+Agricultural, Mainly focusing on crop production statistics, yields, and farming area in India.The goal of this project is to create a data visualization platform that integrates agricultural data from different states and districts in India. The platform will provide insights into crop production, yields, and areas under cultivation, making it easier for users to identify trends, gaps, and regional disparities
